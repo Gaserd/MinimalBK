@@ -1,0 +1,65 @@
+[
+  {
+    "date": 1656842400000,
+    "home": "PSG.LGD",
+    "away": "Xtreme Gaming",
+    "homeOdd": 1.3887559511590946,
+    "awayOdd": 2.817448402295843,
+    "calcHomeOdd": 1.13,
+    "calcAwayOdd": 5.35,
+    "valueHome": 1.23,
+    "valueAway": 0.53,
+    "bet": "PSG.LGD",
+    "cash": 150,
+    "info": {
+      "team1": "PSG.LGD",
+      "team2": "Xtreme Gaming",
+      "odd1": 1.3887559511590946,
+      "odd2": 2.817448402295843,
+      "type": "dota2",
+      "date": 1656842400000
+    }
+  },
+  {
+    "date": 1656853200000,
+    "home": "Rune Eaters Esports",
+    "away": "OutSiders",
+    "homeOdd": 3.6871425124906256,
+    "awayOdd": 1.2441102786857257,
+    "calcHomeOdd": 1.69,
+    "calcAwayOdd": 2.08,
+    "valueHome": 2.18,
+    "valueAway": 0.6,
+    "bet": "Rune Eaters Esports",
+    "cash": 85,
+    "info": {
+      "team1": "Rune Eaters Esports",
+      "team2": "OutSiders",
+      "odd1": 3.6871425124906256,
+      "odd2": 1.2441102786857257,
+      "type": "dota2",
+      "date": 1656853200000
+    }
+  },
+  {
+    "date": 1656864000000,
+    "home": "Pari Parni",
+    "away": "BETBOOM TEAM",
+    "homeOdd": 3.8144148840447776,
+    "awayOdd": 1.2302595725382264,
+    "calcHomeOdd": 3.32,
+    "calcAwayOdd": 1.29,
+    "valueHome": 1.15,
+    "valueAway": 0.95,
+    "bet": "Pari Parni",
+    "cash": 85,
+    "info": {
+      "team1": "Pari Parni",
+      "team2": "BETBOOM TEAM",
+      "odd1": 3.8144148840447776,
+      "odd2": 1.2302595725382264,
+      "type": "dota2",
+      "date": 1656864000000
+    }
+  }
+]
